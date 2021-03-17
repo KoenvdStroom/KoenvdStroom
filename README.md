@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi,
+My name is Koen. I'm a Dutch high school student with a passion for programming. On my Github can you find all my public projects I'm working on.
 
-<!--
-**KoenvdStroom/KoenvdStroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Contact
 
-Here are some ideas to get you started:
+E-mail: [koen@kvds.dev](mailto:koen@kvds.dev)
+Discord: [Kuhn#2995](https://discordapp.com/users/264498576892100608)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Statistics
+![Github stats](https://github-readme-stats.vercel.app/api?username=KoenvdStroom&show_icons=true&theme=dark)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KoenvdStroom&show_icons=true&theme=dark)
