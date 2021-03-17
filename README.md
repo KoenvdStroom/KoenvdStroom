@@ -11,4 +11,5 @@ Discord: [Kuhn#2995](https://discordapp.com/users/264498576892100608)
 
 ### Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KoenvdStroom&show_icons=true&theme=dark)
+
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KoenvdStroom&show_icons=true&theme=dark)
