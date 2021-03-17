@@ -4,9 +4,8 @@ My name is Koen. I'm a Dutch high school student with a passion for programming.
 ---
 ### Contact
 
-E-mail: [koen@kvds.dev](mailto:koen@kvds.dev)
-
-Discord: [Kuhn#2995](https://discordapp.com/users/264498576892100608)
+- E-mail: [koen@kvds.dev](mailto:koen@kvds.dev)
+- Discord: [Kuhn#2995](https://discordapp.com/users/264498576892100608)
 
 ---
 
