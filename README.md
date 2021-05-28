@@ -1,5 +1,5 @@
 ### Hi,
-My name is Koen. I'm a Dutch high school student with a passion for programming. On my Github can you find all my public projects I'm working on.
+My name is Koen. I'm a Dutch high school student with a passion for programming. On my Github, you can find all my public projects I'm working on.
 
 ---
 ### Contact
