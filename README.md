@@ -10,6 +10,6 @@ My name is Koen. I'm a Dutch high school student with a passion for programming.
 ---
 
 ### Statistics
-![Github stats](https://github-readme-stats.vercel.app/api?username=KoenvdStroom&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=KoenvdStroom&show_icons=true&theme=dark&count_private=true)
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KoenvdStroom&show_icons=true&theme=dark)
