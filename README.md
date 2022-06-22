@@ -6,11 +6,3 @@ My name is Koen. I'm a Dutch high school student with a passion for programming.
 
 - E-mail: [koen@kvds.dev](mailto:koen@kvds.dev)
 - Discord: [Kuhn#2995](https://discordapp.com/users/264498576892100608)
-
----
-
-### Statistics
-![Github stats](https://github-readme-stats.vercel.app/api?username=KoenvdStroom&show_icons=true&theme=dark&count_private=true) ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KoenvdStroom&show_icons=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KoenvdStroom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
